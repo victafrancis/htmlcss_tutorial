@@ -6,3 +6,11 @@
     margin-right: 50px;
     margin-left: 50px;
 }
+
+.jumbotron {
+    background-color: salmon;
+}
+
+.small {
+    background-color:greenyellow;
+}
